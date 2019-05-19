@@ -1,5 +1,5 @@
 # kaggle
-Análises e implementações de datasets do Kaggle.
+Análises e implementações utilizzando datasets e competições do Kaggle.
 
 <a href="http://pt-br.tinypic.com?ref=2cpalwz" target="_blank"><img src="https://cdn-images-1.medium.com/max/800/0*ftOal7fKVCNtJr4N.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
